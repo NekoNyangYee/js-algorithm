@@ -7,7 +7,7 @@ const person = {
         city: "Seoul",
         zipCode: "12345"
     },
-    hobbies: ["reading, traveling"],
+    hobbies: ["reading", "traveling"],
 };
 
 const { name2, age, address } = person;
